@@ -1,0 +1,5 @@
+anthropic>=2.8
+pydantic>=2.7
+pandas>=2.2
+openpyxl>=3.1
+reportlab>=4.0   # only for make_sample_bills.py

@@ -1,0 +1,344 @@
+{
+  "brightline_power_2026-03.pdf": {
+    "provider_name": "Brightline Power & Light",
+    "provider_city": null,
+    "provider_state": null,
+    "account_number": "4410-22871-03",
+    "bill_date": "2026-04-18",
+    "due_date": "2026-05-09",
+    "current_charges": 126.99,
+    "total_amount_due": 126.99,
+    "currency": "USD",
+    "sites": [
+      {
+        "address_as_printed": "125 Maple Ave Unit 3B, Springfield, IL 62704",
+        "street": "125 Maple Ave Unit 3B",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62704",
+        "service_period_start": "2026-03-15",
+        "service_period_end": "2026-04-14",
+        "total_cost": 126.99,
+        "charges": [
+          {
+            "category": "electric",
+            "description": "Customer Charge",
+            "amount": 12.5
+          },
+          {
+            "category": "electric",
+            "description": "Energy Charge 642 kWh @ $0.1185",
+            "amount": 76.08
+          },
+          {
+            "category": "electric",
+            "description": "Delivery Charge",
+            "amount": 31.22
+          },
+          {
+            "category": "tax",
+            "description": "State Tax",
+            "amount": 7.19
+          }
+        ],
+        "usage": [
+          {
+            "utility_type": "electric",
+            "meter_number": "M-889201",
+            "usage_quantity": 642,
+            "usage_unit": "kWh",
+            "guessed_unit": null,
+            "guess_basis": null
+          }
+        ]
+      }
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  "northfield_gas_2026-03.pdf": {
+    "provider_name": "Northfield Natural Gas Co.",
+    "provider_city": null,
+    "provider_state": null,
+    "account_number": "NG-0098812",
+    "bill_date": "2026-04-06",
+    "due_date": "2026-04-27",
+    "current_charges": 75.65,
+    "total_amount_due": 75.65,
+    "currency": "USD",
+    "sites": [
+      {
+        "address_as_printed": "125 Maple Ave Unit 3B, Springfield, IL 62704",
+        "street": "125 Maple Ave Unit 3B",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62704",
+        "service_period_start": "2026-03-03",
+        "service_period_end": "2026-04-01",
+        "total_cost": 75.65,
+        "charges": [
+          {
+            "category": "natural_gas",
+            "description": "Monthly Service Charge",
+            "amount": 18.0
+          },
+          {
+            "category": "natural_gas",
+            "description": "Gas Supply 54.3 therms",
+            "amount": 32.58
+          },
+          {
+            "category": "natural_gas",
+            "description": "Distribution 54.3 therms",
+            "amount": 21.45
+          },
+          {
+            "category": "tax",
+            "description": "Municipal Tax",
+            "amount": 3.62
+          }
+        ],
+        "usage": [
+          {
+            "utility_type": "natural_gas",
+            "meter_number": "G-55120",
+            "usage_quantity": 54.3,
+            "usage_unit": "therms",
+            "guessed_unit": null,
+            "guess_basis": null
+          }
+        ]
+      }
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  "city_of_springfield_water_2026-02.pdf": {
+    "provider_name": "City of Springfield Utilities",
+    "provider_city": null,
+    "provider_state": null,
+    "account_number": "300-551-7",
+    "bill_date": "2026-03-10",
+    "due_date": "2026-03-31",
+    "current_charges": 172.72,
+    "total_amount_due": 393.38,
+    "currency": "USD",
+    "sites": [
+      {
+        "address_as_printed": "40 Harbor Rd, Springfield, IL 62702",
+        "street": "40 Harbor Rd",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62702",
+        "service_period_start": "2026-01-28",
+        "service_period_end": "2026-02-27",
+        "total_cost": 172.72,
+        "charges": [
+          {
+            "category": "water",
+            "description": "Water Base Charge",
+            "amount": 22.0
+          },
+          {
+            "category": "water",
+            "description": "Water Usage 9,400 gal",
+            "amount": 58.28
+          },
+          {
+            "category": "sewer",
+            "description": "Sewer Base Charge",
+            "amount": 18.0
+          },
+          {
+            "category": "sewer",
+            "description": "Sewer Usage 9,400 gal",
+            "amount": 47.94
+          },
+          {
+            "category": "trash",
+            "description": "Trash Collection",
+            "amount": 26.5
+          }
+        ],
+        "usage": [
+          {
+            "utility_type": "water",
+            "meter_number": "W-77310",
+            "usage_quantity": 9400,
+            "usage_unit": "gal",
+            "guessed_unit": null,
+            "guess_basis": null
+          }
+        ]
+      }
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  "summit_energy_combined_2026-04.pdf": {
+    "provider_name": "Summit Energy Services",
+    "provider_city": null,
+    "provider_state": null,
+    "account_number": "SE-7781-4420",
+    "bill_date": "2026-05-12",
+    "due_date": "2026-06-02",
+    "current_charges": 211.77,
+    "total_amount_due": 211.77,
+    "currency": "USD",
+    "sites": [
+      {
+        "address_as_printed": "88 Elm St, Springfield, IL 62703",
+        "street": "88 Elm St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62703",
+        "service_period_start": "2026-04-08",
+        "service_period_end": "2026-05-07",
+        "total_cost": 211.77,
+        "charges": [
+          {
+            "category": "electric",
+            "description": "ELECTRIC - Customer Charge",
+            "amount": 12.5
+          },
+          {
+            "category": "electric",
+            "description": "ELECTRIC - 1,218 kWh",
+            "amount": 144.33
+          },
+          {
+            "category": "natural_gas",
+            "description": "GAS - Customer Charge",
+            "amount": 15.0
+          },
+          {
+            "category": "natural_gas",
+            "description": "GAS - 31 CCF",
+            "amount": 27.9
+          },
+          {
+            "category": "tax",
+            "description": "Taxes & Surcharges",
+            "amount": 12.04
+          }
+        ],
+        "usage": [
+          {
+            "utility_type": "electric",
+            "meter_number": "E-41007",
+            "usage_quantity": 1218,
+            "usage_unit": "kWh",
+            "guessed_unit": null,
+            "guess_basis": null
+          },
+          {
+            "utility_type": "natural_gas",
+            "meter_number": "G-41007",
+            "usage_quantity": 31,
+            "usage_unit": "CCF",
+            "guessed_unit": null,
+            "guess_basis": null
+          }
+        ]
+      }
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  "lonestar_power_summary_2026-09.pdf": {
+    "provider_name": "Lone Star Retail Power",
+    "provider_city": null,
+    "provider_state": null,
+    "account_number": "LSR-55012-88",
+    "bill_date": "2026-10-14",
+    "due_date": "2026-11-04",
+    "current_charges": 376.44,
+    "total_amount_due": 376.44,
+    "currency": "USD",
+    "sites": [
+      {
+        "address_as_printed": "410 Cedar Ln, Plano, TX 75074",
+        "street": "410 Cedar Ln",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75074",
+        "service_period_start": "2026-08-28",
+        "service_period_end": "2026-09-27",
+        "total_cost": 168.42,
+        "charges": [
+          {
+            "category": "electric",
+            "description": "Electric charges",
+            "amount": 168.42
+          }
+        ],
+        "usage": [
+          {
+            "utility_type": "electric",
+            "meter_number": "ESI-1001",
+            "usage_quantity": 1104,
+            "usage_unit": "kWh",
+            "guessed_unit": null,
+            "guess_basis": null
+          }
+        ]
+      },
+      {
+        "address_as_printed": "1820 Brook Hollow Dr, Allen, TX 75002",
+        "street": "1820 Brook Hollow Dr",
+        "city": "Allen",
+        "state": "TX",
+        "zip": "75002",
+        "service_period_start": "2026-09-02",
+        "service_period_end": "2026-10-01",
+        "total_cost": 119.87,
+        "charges": [
+          {
+            "category": "electric",
+            "description": "Electric charges",
+            "amount": 119.87
+          }
+        ],
+        "usage": [
+          {
+            "utility_type": "electric",
+            "meter_number": "ESI-1002",
+            "usage_quantity": 736,
+            "usage_unit": "kWh",
+            "guessed_unit": null,
+            "guess_basis": null
+          }
+        ]
+      },
+      {
+        "address_as_printed": "77 Quarry Rd Unit 4, McKinney, TX 75069",
+        "street": "77 Quarry Rd Unit 4",
+        "city": "McKinney",
+        "state": "TX",
+        "zip": "75069",
+        "service_period_start": "2026-09-05",
+        "service_period_end": "2026-10-05",
+        "total_cost": 88.15,
+        "charges": [
+          {
+            "category": "electric",
+            "description": "Electric charges",
+            "amount": 88.15
+          }
+        ],
+        "usage": [
+          {
+            "utility_type": "electric",
+            "meter_number": "ESI-1003",
+            "usage_quantity": 512,
+            "usage_unit": "kWh",
+            "guessed_unit": null,
+            "guess_basis": null
+          }
+        ]
+      }
+    ],
+    "confidence": "high",
+    "notes": null
+  }
+}
