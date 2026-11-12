@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Real bills and their outputs: account numbers and addresses.
+# This repository is public, so keep these local.
+inbox/
+output/
+output_test/
+*.db
+*.db-journal
+*.xlsx
+*.csv
+*.pdf
+
+# Synthetic sample bills and their outputs are safe to share
+!samples/*.pdf
+!samples/expected.json
+!output_samples/*.db
+!output_samples/*.xlsx
